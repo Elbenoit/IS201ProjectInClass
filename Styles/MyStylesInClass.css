@@ -1,0 +1,32 @@
+img {width: 200px;}
+body{background-color:azure;
+font-family: 'Times New Roman', Times, serif;
+font-size: 2em;
+text-align: center;
+padding: 100px}
+
+.flavor{
+    color:darkgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#Rocky {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.icecream{
+    background-color: darkslategray;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    
+}
+footer {
+    border: 3px red;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: aquamarine;
+}
